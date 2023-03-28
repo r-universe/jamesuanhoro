@@ -4,5 +4,11 @@
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["minorbsem"],
     "from": "minorbsem"
+  },
+  {
+    "package": "posterior",
+    "url": "https://github.com/stan-dev/posterior",
+    "via": ["minorbsem"],
+    "from": "minorbsem"
   }
 ]
