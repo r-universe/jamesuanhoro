@@ -7,5 +7,5 @@
 	path = minorbsem
 	url = https://github.com/jamesuanhoro/minorbsem
 	shallow = true
-	branch = rstan_new
+	branch = rstan_dn
 	registered = true
