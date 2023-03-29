@@ -7,6 +7,7 @@
 	path = minorbsem
 	url = https://github.com/jamesuanhoro/minorbsem
 	shallow = true
+	branch = rstan_new
 	registered = true
 [submodule "cmdstanr"]
 	path = cmdstanr
