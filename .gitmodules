@@ -13,8 +13,3 @@
 	url = https://github.com/stan-dev/cmdstanr
 	shallow = true
 	registered = false
-[submodule "posterior"]
-	path = posterior
-	url = https://github.com/stan-dev/posterior
-	shallow = true
-	registered = false
