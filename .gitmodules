@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/jamesuanhoro/jamesuanhoro.r-universe.dev
 	branch = HEAD
+[submodule "rccme"]
+	path = rccme
+	url = https://github.com/jamesuanhoro/rccme
 [submodule "ssrhom"]
 	path = ssrhom
 	url = https://github.com/jamesuanhoro/ssrhom
